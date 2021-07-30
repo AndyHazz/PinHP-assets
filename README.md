@@ -11,3 +11,5 @@ Put these folders in the rpi2jamma directory and they will be used by the PinHP 
 - **samples_advmame** - audio samples, provides extra sound effects for games where anaologue or hard to emulate sounds were used - essential for Space Invaders and Donkey Kong! - mostly sourced from https://samples.mameworld.info/
 - **snaps** - full set of Mame 0.106 snaps - originally sourced from https://www.progettosnaps.net/oldset/
 - **titles** - full set of title screen images, not currently used by PinHP directly, but if you prefer these you can put them in your snaps directory instead of the in-game snaps - also originally sourced from https://www.progettosnaps.net/oldset/
+
+Where images have been resized - the untouched source images and resize scripts can be found here: https://github.com/AndyHazz/PinHP-assets-source
