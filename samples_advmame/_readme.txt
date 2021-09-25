@@ -1,1 +1,2 @@
 Sample files from https://samples.mameworld.info/
+Several larger AdvanceMame specific samples not included here, can be downloaded from https://www.mediafire.com/?5bw1qpq2x4die (linked to from https://www.advancemame.it/download)
